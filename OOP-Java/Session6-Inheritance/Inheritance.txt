@@ -1,0 +1,42 @@
+LÀM OBEJCT NHANH , CẦN KHUÔN
+                          LÀM KHUÔN NHANH -> TA CẦN KẾ THỪA TỪ KHUÔN CÓ SẴN
+Từ các object trong c/s , trong bài toán cần tin học hóa
+  -> tìm ra được cái Khuôn/Class: 1 mức nhận thức , thiết kế ta đạt được rồi
+
+Level 2 của mức nhận thức về class:
+--> Khuôn A, Khuôn B, Khuôn C thấy chúng có tương đồng
+
+TA MUỐN CHẾ TẠO 1 MÓN MỚI, THỨ MỚI, TA BẮT ĐẦU TỪ ĐẦU
+                      - từ đầu ?
+                      - từ cái có sẵn?
+món đồ tức là object, muốn chế tạo nhiều đồ ta cần khuôn (nhân bản Object)
+->làm sao làm đc cái khuôn : chế từ đầu, hay "độ" lại từ cái Khuôn khác
+                                              kế thừa lại
+                                              INHERIT/INHERITANCE
+
+      *CHẾ TỪ ĐẦU: NHỮNG THỨ ĐỘC LẬP NHAU: V,TR, CN, TG, TGV, HBH
+                   XẾP CẠNH NHAU HƠI CHỎI NHAU, KO CHUNG MẢNG
+
+*ĐỘ LẠI KHUÔN CÓ SẴN CHO NHANH -> SERIES CÁC OBJECT CÓ VẺ TƯƠNG ĐỒNG NHAU,
+BÀY CẠNH NHAU KHÔNG CHỎI, KHÔNG LOẠI TRỪ NHAU, TƯƠNG HỢP NHAU NHIỀU HƠN
+      Dòng S SanSung, Notes Samsung (bút) A5 A7
+       Apple : dòng S,dòng C,...
+ Đa dạng SP/OBJECT , NHƯNG LẠI NHANH TRONG VIỆC CHẾ TẠO!!!
+
+---> Đứng trên vai người khổng lồ: có sẵn rồi, làm thêm cho hay, phát huy
+thêm, ai đó dọn đường , ta đi tiếp
+--> Đừng làm lại cái bánh xe: kế thừa cái có sẵn, làm tiếp cái mới
+--> Phiên bản limited, phiên bản đặc biệt , bản "độ" từ
+                        xe máy kỉ niệm 20 năm thành lập , thay tem
+
+-> Ngầm hiểu 1 câu chuyện: từ cái có sẵn , ta làm ra cái mới 
+                                     phiên bản mới từ cái cũ
+                                     cần có cái có sẵn, nền , để ta đi tiếp!!!
+
+->Chế tạo món đồ mới từ món đồ cũ , độ, điều chỉnh 1 chút ít, để ta có sản phẩm nhanh
+
+-> Muốn có object ta cần khuôn X
+                              -> Khuôn X làm từ đầu thì mất công, ta độ từ khuôn Y
+   Khuôn X là bản điều chỉnh từ khuôn Y 
+                             có nguồn gốc , dính dáng từ...
+                             dùng lại những ưu thế , thứ có sẵn từ khuôn Y

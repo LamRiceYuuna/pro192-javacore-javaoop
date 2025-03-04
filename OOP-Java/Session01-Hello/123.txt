@@ -1,0 +1,2 @@
+*Hàm
+-là quy tắc xử  lý đầu vào (data, info) để có đầu ra

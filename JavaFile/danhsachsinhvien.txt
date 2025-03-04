@@ -1,0 +1,7 @@
+Danh Sach Sinh Vien:
+Tran Hai Binh, age: 20, pro192 mark: 8, calculus mark: 7
+Nguyen Xuan Nam, age: 21, pro192 mark: 9, calculus mark: 6
+Tran Thi Hoang, age: 20, pro192 mark: 6, calculus mark: 6
+Nguyen Hoang Minh, age: 19, pro192 mark: 8, calculus mark: 7
+Tran Xuan Binh, age: 20, pro192 mark: 5, calculus mark: 7
+Trinh Nam Anh, age: 20, pro192 mark: 9, calculus mark: 9

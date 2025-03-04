@@ -1,0 +1,15 @@
+-Object lẻ ( đặc tính + hành vi)
+-object thùng chứa (container) chứa nhiều object khác bên trong
+
+-sv A                    , svB, svc, thayA, thay B
+nhiều bộ phận cơ thể                 nhiều bộ phận
+nhiều môn học tham gia               dạy nhiều môn học
+nhiều bộ quần áo                     làm việc kiếm tiền
+
+
+tủ A -> chứa nhiều sách     []
+tủ B -> chứa nhiều hồ sơ sv []
+kệ C -> chứa nhiều đồ lưu niệm []
+máy bay X -> nhiều hành khách []
+
+->Nhóm cái -tủ , thùng- chứa, Container,Cabinet, Shelf

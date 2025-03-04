@@ -1,0 +1,7 @@
+Danh Sach Sinh Vien:
+Tran Hai Binh, age: 20, Student Code: HE154098, pro192 mark: 8, calculus mark: 7
+Nguyen Xuan Nam, age: 21, Student Code: AI435001, pro192 mark: 9, calculus mark: 6
+Tran Thi Hoang, age: 20, Student Code: HE676666, pro192 mark: 6, calculus mark: 6
+Nguyen Hoang Minh, age: 19, Student Code: AI009000, pro192 mark: 8, calculus mark: 7
+Tran Xuan Binh, age: 20, Student Code: AI009900, pro192 mark: 5, calculus mark: 7
+Trinh Nam Anh, age: 20, Student Code: HE987201, pro192 mark: 9, calculus mark: 9

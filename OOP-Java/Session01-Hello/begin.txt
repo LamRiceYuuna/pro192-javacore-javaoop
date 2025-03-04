@@ -1,0 +1,21 @@
+1. Bắt đầu với Java & OOP
+- Download JDK (Java Development Kit) , 8.0, 16.
+- Bắt buộc cài JDK trước , double click .exe -> nexr ->next ->finish/ok
+
+*Cài tool lập trình : Intellij - JetBrain (@edu co thể xài/down bản full tính năng), còn bản Communnity; Eclipse (IBM);
+NetBeans(Oracle/Apache)
+- Cài next tiếp , chú ý màn hình cài , sẽ hỏi câu hỏi là : JDK bạn cài trước đó
+ở đâu -> C:\Program Files\Java\JDK version
+
+*Màn hình  có logo lục giác , NetBeans IDE , mở tool lên 
+
+*DevC++/CodeBlock/~~~..... NetBeans --> Tool để gõ code
+*  Cygwin/gcc/MinGW     ~   JDK    ---> trình biên dịch/thông dịch
+                                        compile(v) biến code người viết source code (.c, .java,.cs, .pas) thành đoạn lệnh
+                                        máy hiểu được machine code / binary code(.class,.apk,.dmg,.exe,.dll)
+
+*Tool viết code ngon , IDE - Integrated Development Enviroment 
+                              Môi trường phát triển tích hợp
+
+vs .Code Editor - VS Code, Brackets, Subline,....
+
